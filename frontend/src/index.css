@@ -1,0 +1,15 @@
+:root {
+  --cream: #FBF5F3;
+  --orange: #E28413;
+  --navy: #000022;
+  --red: #DE3C4B;
+  --pink: #C42847;
+  --white: #FFFFFF;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  background: var(--cream);
+  color: var(--white);
+}
